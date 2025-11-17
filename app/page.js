@@ -100,7 +100,7 @@ export default function Home() {
         },
         {
             title: "Tecnico electronico",
-            company: "Indra",
+            company: "Indra (ETT)",
             period: "Jul. 2016 – Ago. 2016",
             description: "",
             projects: [
@@ -387,6 +387,7 @@ Los dos primeros que se presentan (Inforusia.com y kfibergroup.com) fueron reali
         </div>
     );
 }
+
 
 
 
