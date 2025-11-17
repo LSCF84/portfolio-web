@@ -381,12 +381,24 @@ Los dos primeros que se presentan (Inforusia.com y kfibergroup.com) fueron reali
             </section>
 
             <footer className="text-center text-xs md:text-sm text-gray-500">
-                © {new Date().getFullYear()} L.Sergio Camacho. Todos los derechos
-                reservados.
-            </footer>
+    {/* Contenido existente del copyright */}
+    © {new Date().getFullYear()} L.Sergio Camacho. Todos los derechos
+    reservados.
+    
+    {/* AÑADIR EL SEPARADOR Y EL ENLACE DEL DISCLAIMER */}
+    <span className="mx-2">|</span> {/* Separador visual */}
+    
+    <a 
+        href="/aviso-legal" // Ruta de la página creada en app/aviso-legal/page.js
+        className="hover:underline" // Estilo de Tailwind para subrayar al pasar el ratón
+    >
+        Aviso Legal
+    </a>
+</footer>
         </div>
     );
 }
+
 
 
 
