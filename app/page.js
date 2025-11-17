@@ -360,7 +360,7 @@ export default function Home() {
 Los dos primeros que se presentan (Inforusia.com y kfibergroup.com) fueron realizados para la consultoría KF Ibergroup. Aunque ya no están en línea, se conservan y pueden consultarse en Internet Archive. Actualmente, sigo trabajando en proyectos para una asociación sin ánimo de lucro.
                     </p>
                     <p className="text-xs md:text-base mb-8  text-justify">
-                        Aquí puedes ver algunos de ellos:
+                        Aquí puedes ver proyectos antiguos:
                     </p>
 
                     {/* Projects row */}
@@ -387,5 +387,6 @@ Los dos primeros que se presentan (Inforusia.com y kfibergroup.com) fueron reali
         </div>
     );
 }
+
 
 
