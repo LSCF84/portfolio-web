@@ -18,9 +18,9 @@ export default function Home() {
                 "Administración de identidades y credenciales",
                 "Automatización de tareas repetitivas",
                 "Gestión de CPD VMWARE",
-                "Gestión de CPD VMWARE",
+                "Implementación de plataformas de soporte y asistencia remota para clientes corporativos",
             ],
-            technologies: ["Sistemas de gestión de tickets", "Firewall","CPD", "Virtualización", "Automatización"],
+            technologies: ["Gestión de Incidencias (Ticketing)", "Ciberseguridad y Seguridad Perimetral","CPD","Plataformas de Asistencia Remota", "Virtualización", "Automatización"],
             image: "/company_logo/Microsyscom_generico.png",
         },
         // {
@@ -400,6 +400,7 @@ Los dos primeros que se presentan (Inforusia.com y kfibergroup.com) fueron reali
         </div>
     );
 }
+
 
 
 
