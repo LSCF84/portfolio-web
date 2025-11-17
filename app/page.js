@@ -19,7 +19,7 @@ export default function Home() {
                 "Automatización de tareas repetitivas",
             ],
             technologies: ["Sistemas de gestión de tickets", "Firewall", "Virtualización", "Automatización"],
-            image: "/company_logo/Microsyscom.png",
+            image: "/company_logo/Microsyscom_generico.png",
         },
         // {
         //     title: "Analista en Prácticas",
@@ -387,6 +387,7 @@ Los dos primeros que se presentan (Inforusia.com y kfibergroup.com) fueron reali
         </div>
     );
 }
+
 
 
 
