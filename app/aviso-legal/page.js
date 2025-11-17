@@ -29,20 +29,22 @@ export default function AvisoLegalPage() {
                     </p>
                 </section>
 
-                <section id="garantias" className="mb-8">
-                    <h2 className="text-xl md:text-2xl font-semibold mb-3 text-gray-700 border-b pb-2">2. Exclusión de Garantías (Disclaimer)</h2>
-                    <p className="text-gray-600 leading-relaxed">
-                        El código y los proyectos mostrados en este portafolio y en el repositorio asociado son presentados en su estado actual (&quot;as is&quot;). Se informa que:
-                    </p>
-                    <ul className="list-disc pl-5 mt-4 text-gray-600 space-y-2">
-                        <li>
-                            <strong className="font-semibold">Carácter Demostrativo:</strong> La mayoría de los proyectos son pruebas de concepto o versiones simplificadas. No se garantiza su rendimiento, seguridad o que estén libres de errores.
-                        </li>
-                        <li>
-                            <strong className="font-semibold">Responsabilidad del Uso:</strong> El titular no se hace responsable del uso, ni de las consecuencias derivadas, que el visitante pueda darle al código fuente, los proyectos, o cualquier otra información técnica aquí expuesta.
-                        </li>
-                    </ul>
-                </section>
+               <section id="garantias" className="mb-8">
+    <h2 className="text-xl md:text-2xl font-semibold mb-3 text-gray-700 border-b pb-2">2. Exclusión de Garantías (Disclaimer)</h2>
+    <p className="text-gray-600 leading-relaxed">
+        El código y los proyectos mostrados en este portafolio y en el repositorio asociado son presentados en su estado actual (&quot;as is&quot;). Se informa que:
+    </p>
+    <ul className="list-disc pl-5 mt-4 text-gray-600 space-y-2">
+        <li>
+            {/* CORRECCIÓN: Reemplazar **...** por <strong>...</strong> */}
+            <strong className="font-semibold">Carácter Demostrativo:</strong> La mayoría de los proyectos son pruebas de concepto o versiones simplificadas. No se garantiza su rendimiento, seguridad o que estén libres de errores.
+        </li>
+        <li>
+            {/* CORRECCIÓN: Reemplazar **...** por <strong>...</strong> */}
+            <strong className="font-semibold">Responsabilidad del Uso:</strong> El titular no se hace responsable del uso, ni de las consecuencias derivadas, que el visitante pueda darle al código fuente, los proyectos, o cualquier otra información técnica aquí expuesta.
+        </li>
+    </ul>
+</section>
                 
                 <section id="contacto" className="mb-8">
                     <h2 className="text-xl md:text-2xl font-semibold mb-3 text-gray-700 border-b pb-2">3. Contacto</h2>
