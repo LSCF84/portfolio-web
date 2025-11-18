@@ -47,13 +47,13 @@ export default function AvisoLegalPage() {
 
                     <h3 className="text-lg font-bold mt-4 mb-2 text-gray-800">Declaración de Propiedad de Contenido</h3>
                     <p className="text-gray-600 leading-relaxed">
-                        &quot;Todos los proyectos de software y herramientas listados en la sección 'Proyectos' y enlazados a repositorios de código (como GitHub) son creaciones personales, independientes y propiedad exclusiva de Luis Sergio Camacho Fernández.&quot;
+                        &quot;Todos los proyectos de software y herramientas listados en la sección **&apos;Proyectos&apos;** y enlazados a repositorios de código (como GitHub) son creaciones personales, independientes y propiedad exclusiva de Luis Sergio Camacho Fernández.&quot;
                     </p>
                     <p className="text-gray-600 leading-relaxed mt-2">
                         &quot;Este contenido fue desarrollado fuera del ámbito laboral y no utiliza, revela, ni está basado en código, metodologías o información confidencial obtenida de empleadores anteriores o actuales.&quot;
                     </p>
                     <p className="text-gray-600 leading-relaxed mt-2 italic">
-                        &quot;Este portfolio se proporciona 'tal cual', sin garantías expresas o implícitas de ningún tipo.&quot;
+                        &quot;Este portfolio se proporciona **&apos;tal cual&apos;**, sin garantías expresas o implícitas de ningún tipo.&quot;
                     </p>
                 </section>
                 
