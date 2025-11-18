@@ -207,7 +207,7 @@ export default function Home() {
             technologies: [
                 "Diagnóstico Hardware/Software",
                 "Troubleshooting de Conectividad",
-                "IoVenta TécnicaT",
+                "Venta Técnica",
                 // "Inteligencia Artificial",
                 // "Ciencia de Datos",
             ],
